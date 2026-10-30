@@ -1,10 +1,10 @@
 # 👩🏻‍💻 Arthur Nery
 
-**`Engenheiro de Dados Júnior`**
+**`Data Engineer`**
 
 Python · SQL · PySpark · Databricks
 
-23 anos, do Rio de Janeiro. Trabalhei 6 anos em design gráfico e animação Pixel Art antes de migrar para Engenharia de Dados.
+23 years old, from Rio de Janeiro. Spent 6 years doing graphic design and pixel art animation before making the jump to Data Engineering.
 
 <p align="left">
         <a href="https://github.com/arthurmnery?tab=followers">
