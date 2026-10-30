@@ -14,7 +14,7 @@ Python · SQL · PySpark · Databricks
             src="https://custom-icon-badges.demolab.com/github/followers/arthurmnery?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+     <a href="https://github.com/arthurmnery?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Stars" 
