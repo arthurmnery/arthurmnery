@@ -77,7 +77,7 @@ Python · SQL · PySpark · Databricks
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmnery&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=arthurmnery&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=arthurmnery&langs_count=5&theme=dark_github" 
   />
-
+  
 </p>
