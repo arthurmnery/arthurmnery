@@ -4,7 +4,7 @@
 
 Python · SQL · PySpark · Databricks
 
-23 years old, from Rio de Janeiro. Spent 6 years doing graphic design and pixel art animation before making the jump to Data Engineering.
+23, from Rio de Janeiro, Brazil. 6 years in graphic design and pixel art animation before switching to Data Engineering.
 
 <p align="left">
         <a href="https://github.com/arthurmnery?tab=followers">
