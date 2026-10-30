@@ -4,21 +4,21 @@
 
 Python · SQL · PySpark · Databricks
 
-23 anos, do Rio de Janeiro. Passei 6 anos em design gráfico e animação antes de migrar para Engenharia de Dados.
+23 anos, do Rio de Janeiro. Trabalhei 6 anos em design gráfico e animação Pixel Art antes de migrar para Engenharia de Dados.
 
 <p align="left">
         <a href="https://github.com/arthurmnery?tab=followers">
         <img 
             alt="Seguidores" 
             title="Follow" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/arthurmnery?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
      <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/arthurmnery?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
