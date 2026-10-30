@@ -25,7 +25,7 @@ Python · SQL · PySpark · Databricks
 
 ---
 
-### 🤖 Linguagens e Ferramentas
+### 🤖 Tools & Languages
 
 <img 
     align="left" 
@@ -51,33 +51,6 @@ Python · SQL · PySpark · Databricks
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
-<img 
-    align="left" 
-    alt="MongoDB"
-    title="MongoDB" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Redis"
-    title="Redis" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
-/>
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=arthurmnery&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=arthurmnery&langs_count=5&theme=dark_github" 
-  />
-  
-</p>
